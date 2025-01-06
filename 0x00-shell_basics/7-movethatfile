@@ -1,0 +1,6 @@
+
+#!/bin/bash
+
+mv Rihen /tmp/my_first_directory
+
+
