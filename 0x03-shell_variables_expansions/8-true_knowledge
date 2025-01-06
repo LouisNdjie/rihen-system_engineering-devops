@@ -1,0 +1,3 @@
+echo $((TRUEKNOWLEDGE+128))
+
+

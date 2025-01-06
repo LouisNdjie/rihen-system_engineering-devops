@@ -1,0 +1,8 @@
+
+#!/bin/bash
+
+nombre=$(echo "$PATH" | tr ':' '\n' | wc -l)
+
+echo ${nombre}
+
+
