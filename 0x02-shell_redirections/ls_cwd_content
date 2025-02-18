@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 louis_ndjie louis_ndjie 4096 Feb 11 15:46 .
+drwxrwxr-x 5 louis_ndjie louis_ndjie 4096 Feb 11 03:48 ..
+-rwxrwxr-x 1 louis_ndjie louis_ndjie   33 Feb 11 03:51 0-hello_wolrd
+-rwxrwxr-x 1 louis_ndjie louis_ndjie   30 Feb 11 03:55 1-confused_smiley
+-rwxrwxr-x 1 louis_ndjie louis_ndjie   29 Feb 11 03:57 2-hellofile
+-rwxrwxr-x 1 louis_ndjie louis_ndjie   40 Feb 11 04:06 3-twofiles
+-rwxrwxr-x 1 louis_ndjie louis_ndjie   30 Feb 11 13:54 4-lastlines
+-rwxrwxr-x 1 louis_ndjie louis_ndjie   30 Feb 11 15:04 5-firstlines
+-rwxrwxr-x 1 louis_ndjie louis_ndjie   41 Feb 11 15:20 6-third_line
+-rwxrwxr-x 1 louis_ndjie louis_ndjie   71 Feb 11 15:36 7-file
+-rwxrwxr-x 1 louis_ndjie louis_ndjie   37 Feb 11 15:45 8-cwd_state
+-rw-rw-r-- 1 louis_ndjie louis_ndjie   12 Feb 11 15:36 *\"Best School"\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 louis_ndjie louis_ndjie  803 Feb 11 15:10 iacta
+-rw-rw-r-- 1 louis_ndjie louis_ndjie    0 Feb 11 15:46 ls_cwd_content
